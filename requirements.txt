@@ -1,3 +1,4 @@
 pyTelegrambotapi==4.29.0
-dotenv~=0.9.9
-python-dotenv~=1.1.1
+dotenv==0.9.9
+python-dotenv==1.1.1
+aiohttp==3.12.15
